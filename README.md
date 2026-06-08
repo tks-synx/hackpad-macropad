@@ -3,17 +3,17 @@
 ## Design Renders & Screenshots
 
 ### Macropad Design (Fusion)
-![Macropad Design](Screenshot%202026-06-08%20at%208.43.55%20PM.png)
+![Macropad Design](macropad.png)
 (Was not able to get the actual models for keycaps, switches, the OLED, rotator or MCU in Fusion)
 
 ### 3D Case Design (Fusion)
-![Case Design](Screenshot%202026-06-08%20at%208.21.09%20PM.png)
+![Case Design](case.png)
 
 ### Circuit Schematic (KiCad)
-![Schematic](Screenshot%202026-06-08%20at%206.08.46%20PM.png)
+![Schematic](schematic.png)
 
 ### PCB Layout (KiCad)
-![PCB Layout](Screenshot%202026-06-08%20at%206.08.27%20PM.png)
+![PCB Layout](pcb.png)
 
 ## Bill of Materials (BOM)
 * [1]x Seeed XIAO RP2040 microcontroller
